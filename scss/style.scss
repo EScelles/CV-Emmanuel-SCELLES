@@ -131,11 +131,11 @@ aside {
       }
       i {
         font-size: 2rem;
-        flex: 0 0 50px;
+        flex: auto;
         margin-right: 1rem;
       }
       p {
-        flex: auto;
+        flex: 0 0 50px;
         margin: 0;
       }
     }
