@@ -181,7 +181,7 @@ aside .block .bar-skill .bar-skill-progress {
   height: 5px;
   top: 0;
   left: 0;
-  width: 80%;
+  width: 100%;
   background: var(--light);
 }
 aside .block .bar-skill .bar-skill-dot {
@@ -189,7 +189,7 @@ aside .block .bar-skill .bar-skill-dot {
   height: 10px;
   width: 10px;
   background: var(--dark);
-  left: calc(80% - 5px);
+  left: calc(100% - 5px);
   top: -2.5px;
   transform: rotate(45deg);
 }
